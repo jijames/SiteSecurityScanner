@@ -1,0 +1,16 @@
+//cast.imp.joins.com/persona.js
+http://images.joins.com/ui_c/fvc_joins.ico
+http://static.joins.com/common/data/weather/today_weather_list.js
+http://static.joins.com/common/ui/script/active_load_image.js
+http://static.joins.com/common/ui/script/common.js
+http://static.joins.com/common/ui/script/cookies.js
+http://static.joins.com/jmnet/ui/css/joongangdaily_index.css
+http://static.joins.com/jmnet/ui/toplogomenu_joongangdaily.js
+http://static.joins.com/joongang_15re/scripts/layout.js
+http://static.joins.com/joongang_15re/scripts/lib/jquery/jquery-1.11.3.min.js
+http://static.joins.com/joongang_15re/scripts/lib/transparency.min.js
+http://static.joins.com/joongang_15re/scripts/utils/jquery.utils.js
+http://static.joins.com/joongang_15re/scripts/utils/utils.js
+http://static.joins.com/joongang/ui/script/homesearch_u8.js
+https://www.googletagmanager.com/gtag/js?id=UA-64411427-1
+https://www.youtube.com/embed/zp2gODLMaCM

@@ -1,0 +1,15 @@
+http://ad.hankooki.com/js.kti/120160/left@all
+http://ad.hankooki.com/js.kti/300250/main@sp
+http://ad.hankooki.com/js.kti/300250/main@sp2
+http://ad.hankooki.com/js.kti/300600/main@sp
+http://ad.hankooki.com/js.kti/30060/main2@sp
+http://ad.hankooki.com/js.kti/30060/main3@sp
+http://ad.hankooki.com/js.kti/30060/main4@sp
+http://ad.hankooki.com/js.kti/30060/main@sp
+http://ad.hankooki.com/js.kti/690100/main@sp
+http://ad.hankooki.com/js.kti/icover/main@sp?tgpFr=icover
+http://eyenews.hankooki.com/service/v01/multimedia_300.htm
+http://img.hankooki.com/icon/hankooki.ico
+https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js
+https://www.googletagmanager.com/gtag/js?id=UA-126702077-6
+http://www.hankooki.com/js/jquery-1.8.0.min.js

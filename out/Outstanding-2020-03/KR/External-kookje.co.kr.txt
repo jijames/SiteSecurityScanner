@@ -1,0 +1,5 @@
+http://bn.weatheri.co.kr/kookje/weather3.html
+https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+https://www.youtube.com/embed/UwEN7omM8Jo?rel=0&vq=medium
+//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+//wcs.naver.net/wcslog.js

@@ -1,0 +1,3 @@
+https://platform.twitter.com/widgets.js
+https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwnewskr%2F&tabs=timeline&width=398&height=260&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId
+//static.analytics.openapi.naver.com/js/wcslog.js

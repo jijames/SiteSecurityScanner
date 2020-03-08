@@ -1,0 +1,15 @@
+//aax.amazon-adsystem.com
+//ads.rubiconproject.com
+//as.casalemedia.com
+//c.amazon-adsystem.com
+//c.amazon-adsystem.com/aax2/apstag.js
+//cdn.matheranalytics.com
+//eb.trbas.com
+https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fchicagotribune%2F&tabs&width=340&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId
+//js.matheranalytics.com
+//js-sec.indexww.com
+//js-sec.indexww.com/ht/htw-chicago-tribune.js
+//optimized-by.rubiconproject.com
+//securepubads.g.doubleclick.net
+//securepubads.g.doubleclick.net/tag/js/gpt.js
+//www.googletagservices.com

@@ -1,0 +1,2 @@
+https://developers.kakao.com/sdk/js/kakao.min.js
+https://www.googletagmanager.com/gtag/js?id=UA-135351285-1

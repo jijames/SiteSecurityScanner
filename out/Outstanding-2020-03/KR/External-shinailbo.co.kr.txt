@@ -1,0 +1,2 @@
+http://wcs.naver.net/wcslog.js
+//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js

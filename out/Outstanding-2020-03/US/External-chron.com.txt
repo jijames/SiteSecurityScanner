@@ -1,0 +1,5 @@
+//embed.sendtonews.com/player3/embedcode.js?fk=gdF7xWjC&cid=9612&offsetx=0&offsety=0&floatwidth=400&floatposition=bottom-right
+https://aps.hearstnp.com/Scripts/loadAds.js
+https://cdn.blueconic.net/hearst.js
+//static.chartbeat.com/js/chartbeat_mab.js
+//treg.hearstnp.com/treg.js

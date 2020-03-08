@@ -1,0 +1,4 @@
+//cdn-aitg.widerplanet.com/js/adr.js
+//cdn.targetpush.co.kr/js/targetpushad.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
+//static.criteo.net/js/ld/publishertag.js

@@ -1,0 +1,5 @@
+https://www.googletagmanager.com/gtag/js?id=UA-131759659-1
+https://www.googletagmanager.com/gtag/js?id=UA-144576230-1
+https://www.youtube.com/embed/DJjSyJCFcRQ
+http://wcs.naver.net/wcslog.js
+http://www.newspic.kr/api/discovery/visit.php

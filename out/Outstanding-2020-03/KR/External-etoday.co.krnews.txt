@@ -1,0 +1,5 @@
+//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
+http://m.etoday.co.kr/
+https://securepubads.g.doubleclick.net/tag/js/gpt.js
+https://www.googletagmanager.com/gtag/js?id=UA-32474096-1
+http://www.etoday.co.kr/news/

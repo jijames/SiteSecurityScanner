@@ -1,0 +1,5 @@
+https://sdk.privacy-center.org
+https://sdk.privacy-center.org/loader.js
+https://www.google-analytics.com
+https://www.googletagmanager.com
+https://www.googletagmanager.com/ns.html?id=GTM-TVS8NW5

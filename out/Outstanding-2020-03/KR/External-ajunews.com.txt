@@ -1,0 +1,7 @@
+//developers.kakao.com/sdk/js/kakao.min.js
+//dis.site3.co.kr/tdn/appl.js
+https://compass.adop.cc/assets/js/adop/adop.js?v=14
+https://tv.naver.com/embed/12695814?autoPlay=false
+https://wcs.naver.net/wcslog.js
+https://www.googletagmanager.com/gtag/js?id=UA-34061672-1
+//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js

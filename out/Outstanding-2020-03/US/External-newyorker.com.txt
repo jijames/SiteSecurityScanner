@@ -1,0 +1,11 @@
+//aax.amazon-adsystem.com
+https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-fd2e38c2a1cccb723029dc3b607e196906c8bf93.js
+https://c.amazon-adsystem.com/aax2/apstag.js
+https://cdn.cookielaw.org/consent/cmp.stub.js
+https://js-sec.indexww.com/ht/p/183973-115907842074647.js
+https://mb.moatads.com
+https://securepubads.g.doubleclick.net
+https://securepubads.g.doubleclick.net/tag/js/gpt.js
+https://www.googletagmanager.com/ns.html?id=GTM-NX5LSK3
+https://www.wnyc.org/widgets/ondemand_player/thenewyorker/?share=1#file=/audio/json/997626/
+https://z.moatads.com/condenastprebidheader987326845656/moatheader.js

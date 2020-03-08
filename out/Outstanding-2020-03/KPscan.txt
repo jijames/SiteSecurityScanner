@@ -1,0 +1,13 @@
+Time, Site, OBS Score, OBS Grade, TLS Score, TLS Grade, External Links
+2020-03-03T16:52+09:00, http://www.kcna.kp/, [F], 0, F, (0/100), 0
+2020-03-03T16:52+09:00, http://www.kcna.co.jp/, , F, (0/100), 0
+2020-03-03T16:52+09:00, http://www.rodong.rep.kp/, [F], 0, F, (0/100), 0
+2020-03-03T16:53+09:00, http://www.minzu.rep.kp/, [F], 0, F, (0/100), 2
+2020-03-03T16:54+09:00, http://naenara.com.kp/en/, [F], 0, F, (0/100), 0
+2020-03-03T16:54+09:00, http://www.uriminzokkiri.com/, [F], 0, F, (0/100), 0
+2020-03-03T16:55+09:00, http://www.vok.rep.kp/, [F], 0, F, (0/100), 0
+2020-03-03T16:56+09:00, http://www.pyongyangtimes.com.kp/, [F], 0, F, (0/100), 0
+2020-03-03T16:56+09:00, http://www.gnu.rep.kp/, [F], 0, F, (0/100), 0
+2020-03-03T16:57+09:00, http://mediaryugyong.com.kp/, [F], 0, F, (0/100), 0
+2020-03-03T16:58+09:00, http://chosonsinbo.com/, [F], 0, B, (75/100), 6
+2020-03-03T16:59+09:00, http://pyongyang.news-site.net/, [F], 0, F, (0/100), 0

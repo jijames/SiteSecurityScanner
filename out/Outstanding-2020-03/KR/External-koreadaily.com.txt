@@ -1,0 +1,9 @@
+//fonts.googleapis.com/css?family=Poppins
+http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js
+https://cdn.jsdelivr.net/gh/koreadaily/NotoSansKR-Hestia@efaffc/stylesheets/NotoSansKR-Hestia.css
+https://code.jquery.com/jquery-3.3.1.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+https://use.fontawesome.com/releases/v5.1.1/css/all.css
+https://www.googletagmanager.com/gtag/js?id=UA-1434457-1
+https://www.googletagservices.com/tag/js/gpt.js

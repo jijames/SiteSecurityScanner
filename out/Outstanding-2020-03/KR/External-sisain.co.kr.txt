@@ -1,0 +1,6 @@
+https://compass.adop.cc/assets/js/adop/adopJ.js?v=14
+https://compass.adop.cc/ST/5f646514-f039-4f4d-b98a-9f8b81eb2519
+https://snapwidget.com/embed/706518
+https://snapwidget.com/js/snapwidget.js
+https://www.googletagmanager.com/gtag/js?id=UA-16491472-1
+//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js

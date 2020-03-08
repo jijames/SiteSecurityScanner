@@ -1,0 +1,2 @@
+https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+https://www.googletagmanager.com/gtag/js?id=UA-24472307-90

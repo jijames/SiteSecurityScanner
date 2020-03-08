@@ -1,0 +1,14 @@
+//aax.amazon-adsystem.com
+//ads.rubiconproject.com
+//as.casalemedia.com
+//c.amazon-adsystem.com
+//c.amazon-adsystem.com/aax2/apstag.js
+//cdn.matheranalytics.com
+//eb.trbas.com
+//js.matheranalytics.com
+//js-sec.indexww.com
+//js-sec.indexww.com/ht/p/184794-34508131677119.js
+//optimized-by.rubiconproject.com
+//securepubads.g.doubleclick.net
+//securepubads.g.doubleclick.net/tag/js/gpt.js
+//www.googletagservices.com

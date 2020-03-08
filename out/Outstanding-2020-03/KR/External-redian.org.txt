@@ -1,0 +1,5 @@
+//connect.facebook.net
+//fonts.googleapis.com
+//fonts.googleapis.com/css?family=Average+Sans%3A400%2C700%7CFjalla+One&subset=latin%2Clatin-ext
+https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css
+//s.w.org

@@ -1,0 +1,5 @@
+//developers.kakao.com/sdk/js/kakao.min.js
+https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v4.0
+https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=o679bnuqnb
+https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdailiannews&tabs=timeline&width=400&height=400&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId
+http://www.google-analytics.com/ga.js

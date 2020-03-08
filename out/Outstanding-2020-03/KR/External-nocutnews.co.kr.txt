@@ -1,0 +1,2 @@
+//code.jquery.com/jquery-1.12.0.min.js
+//code.jquery.com/ui/1.11.4/jquery-ui.min.js

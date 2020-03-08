@@ -1,0 +1,11 @@
+//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=01HO&out=script
+//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=02Op&out=script
+//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=02Sg&out=script
+//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=03vn&out=script
+http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Main/Page_main@HyundaiMobis
+http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Main/Page_main@NEW_MC1
+http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Main/Page_main@NEW_MCT
+http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Main/Page_main@NEW_MR1
+http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Main/Page_main@Samsung_MR1
+https://use.fontawesome.com/releases/v5.1.0/css/all.css
+//www.googletagmanager.com/ns.html?id=GTM-KW7RWN

@@ -1,0 +1,2 @@
+//cdn-aitg.widerplanet.com/js/wp_astg_6.0.js
+https://www.googletagmanager.com/gtag/js?id=UA-24561295-6

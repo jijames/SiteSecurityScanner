@@ -1,0 +1,2 @@
+https://www.googletagservices.com/tag/js/gpt.js
+//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit

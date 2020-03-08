@@ -1,0 +1,5 @@
+https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+https://platform.twitter.com/widgets.js
+https://www.googletagmanager.com/gtag/js?id=UA-53476308-1
+https://www.googletagmanager.com/gtag/js?id=UA-53476308-2
+//wcs.naver.net/wcslog.js

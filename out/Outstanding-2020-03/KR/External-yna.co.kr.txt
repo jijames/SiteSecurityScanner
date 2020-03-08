@@ -1,0 +1,14 @@
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@Center1?ads-main-banner01
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@Middle3?ads-main-juyo02
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@Middle4?ads-main-juyo03
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@TopLeft1?ads-top01
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@TopRight1?ads-top02
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@x01?ads-right01
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@x02?ads-right02
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@x03?ads-right03
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@x04?ads-right04
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@x05?ads-right05
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@x06?ads-right06
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@x54?ads-fixed02
+//ad.yonhapnews.co.kr/RealMedia/ads/adstream_sx.ads/www.yonhapnews.co.kr/main@x55?ads-fixed01
+https://www.googletagmanager.com/gtag/js?id=UA-127598410-1

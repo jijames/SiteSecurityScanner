@@ -1,0 +1,4 @@
+https://tv.naver.com/embed/12436258?autoPlay=true
+http://www.google-analytics.com/plugins/ua/linkid.js
+//plugin.adplex.co.kr/cad/atc.js
+//www.google-analytics.com/analytics.js

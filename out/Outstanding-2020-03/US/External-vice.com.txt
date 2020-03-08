@@ -1,0 +1,13 @@
+//api.amplitude.com
+//gum.criteo.com
+https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700,900&display=swap&subset=japanese
+https://fonts.gstatic.com/s/sourcecodepro/v10/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevWnsUnxg.woff2
+https://fonts.gstatic.com/s/sourcecodepro/v10/HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7Ds-cq7Gq0DA.woff2
+https://www.googletagmanager.com/ns.html?id=GTM-MSM4HQ4
+//mid.rkdms.com
+//native.sharethrough.com/assets/sfp.js
+//secure.adnxs.com
+//securepubads.g.doubleclick.net
+//securepubads.g.doubleclick.net/tag/js/gpt.js
+//sharethrough.adnxs.com
+//sourcepoint.mgr.consensu.org
